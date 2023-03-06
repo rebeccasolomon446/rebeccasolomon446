@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There, I'm Rebecca!
 ⚡Economics grad turned tech enthusiast. <br>⚡Full-stack skills from Bright Network's Tech Academy. <br>⚡Building a weather app, one line of code at a time. <br>⚡Aspiring software developer with a passion for innovation.
 
 
